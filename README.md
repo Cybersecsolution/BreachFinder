@@ -44,11 +44,28 @@
 
 - **Download Program**
 
+<!-- Download Program -->
+<h3 align="center">Download Program</h3>
+
 <p align="center">
-  <a href="https://mega.nz/file/7ZMzAJaD#1spewx_uvnQgX1bsxnARMWAMKupXjwsKFuPtOijH7mo" target="_blank" style="background-color: #28a745; color: #ffffff; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">
+  <a href="https://mega.nz/file/7ZMzAJaD#1spewx_uvnQgX1bsxnARMWAMKupXjwsKFuPtOijH7mo"
+     target="_blank"
+     style="
+       background-color: #28a745;
+       color: #ffffff;
+       padding: 12px 24px;
+       border-radius: 5px;
+       font-weight: bold;
+       text-decoration: none;
+       display: inline-block;">
     Download File
   </a>
 </p>
+
+<p align="center" style="font-family: sans-serif; font-size: 14px; color: #888888;">
+  Note: The file is hosted on MEGA because it exceeds GitHub’s file size limits.
+</p>
+
 
 <p align="center" style="font-family: sans-serif; font-size: 14px; margin-top: 10px;">
   Note: The file is hosted on MEGA because it exceeds GitHub’s file size limits.
