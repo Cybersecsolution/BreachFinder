@@ -55,18 +55,6 @@ Includes basic tests to ensure core functionality (like year parsing and JSON ca
 
 ### 📌 Installation Steps
 
-```python
-# 1. Ensure you have Python 3.6+ installed.
-#    If not, download Python 3.13.2 from:
-#    https://www.python.org/ftp/python/3.13.2/python-3.13.2-amd64.exe
-
-# 2. Run the application:
-#    python main.py
-
-# 3. IMPORTANT: You will need your own API key from LeakCheck to use this application.
-#    Purchase your API key here: https://leakcheck.io/buy
-
-📂 Downloads & API Key Purchase
 <p align="center">
   <a href="https://www.python.org/downloads/" target="_blank">
     <img src="https://img.shields.io/badge/Python-Download-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Download Python" />
@@ -84,4 +72,3 @@ Includes basic tests to ensure core functionality (like year parsing and JSON ca
 <p align="center" style="font-family: sans-serif; font-size: 14px; color: #888888;">
   Note: The MEGA file is hosted externally because it exceeds GitHub’s file size limits.
 </p>
-
