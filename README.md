@@ -44,10 +44,8 @@ Employs a facade pattern to abstract and unify lookup operations, making future 
 ✅ **Unit Testing**  
 Includes basic tests to ensure core functionality (like year parsing and JSON caching) works reliably and remains stable over time.
 
-<p align="center" style="font-family: sans-serif; font-size: 14px; color: #888888;">
-  <em>Note:</em> This program is compiled into an <strong>.exe</strong> file.
-</p>
-
+✅ **Note: Compiled To .exe**
+This program is distributed as a compiled Windows executable (.exe).
 
 ---
 
