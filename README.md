@@ -54,22 +54,26 @@ Includes basic tests to ensure core functionality (like year parsing and JSON ca
 - You **must purchase an API key** from LeakCheck to access breach data.
 
 
-<p align="center"><strong>📌 Installation Steps</strong></p>
+## 📥 Download & Setup
 
+<!-- Centered "Requirements" Badge -->
 <p align="center">
-  <a href="https://www.python.org/downloads/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-Download-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Download Python" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://mega.nz/file/7ZMzAJaD#1spewx_uvnQgX1bsxnARMWAMKupXjwsKFuPtOijH7mo" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20File-0A66C2?style=for-the-badge&logo=mega&logoColor=white" alt="Download File" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://leakcheck.io/buy" target="_blank">
-    <img src="https://img.shields.io/badge/Purchase%20API%20Key-FF6600?style=for-the-badge&logo=key&logoColor=white" alt="Purchase API Key" />
-  </a>
+  <img src="https://img.shields.io/badge/Requirements-Python%203.6%2B%20%7C%20LeakCheck%20API%20Key-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB"
+       alt="Requirements: Python 3.6+ and LeakCheck API Key" />
 </p>
 
-<p align="center" style="font-family: sans-serif; font-size: 14px; color: #888888;">
-  Note: The MEGA file is hosted externally because it exceeds GitHub’s file size limits.
+<details>
+  <summary><strong>More Info</strong></summary>
+
+- **Python 3.6+** is required.  
+  If you don’t have it installed, you can [download the latest version here](https://www.python.org/downloads/).
+
+- You **must purchase an API key** from [LeakCheck](https://leakcheck.io/buy) to access breach data.
+
+</details>
+
+<!-- Centered "Installation Steps" Badge -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Installation%20Steps-Click%20Below-blueviolet?style=for-the-badge&logo=pinboard&logoColor=white"
+       alt="Installation Steps" />
 </p>
