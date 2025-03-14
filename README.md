@@ -55,6 +55,8 @@ Includes basic tests to ensure core functionality (like year parsing and JSON ca
 
 ### 📌 Installation Steps
 
+<p align="center"><strong>Installation Steps</strong></p>
+
 <p align="center">
   <a href="https://www.python.org/downloads/" target="_blank">
     <img src="https://img.shields.io/badge/Python-Download-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Download Python" />
