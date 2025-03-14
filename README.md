@@ -66,11 +66,6 @@
   Note: The file is hosted on MEGA because it exceeds GitHub’s file size limits.
 </p>
 
-
-<p align="center" style="font-family: sans-serif; font-size: 14px; margin-top: 10px;">
-  Note: The file is hosted on MEGA because it exceeds GitHub’s file size limits.
-</p>
-
 ## 📦 Installation
 ```python
 # 1. Ensure you have Python 3.6+ installed.
