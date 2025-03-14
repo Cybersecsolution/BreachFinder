@@ -53,9 +53,8 @@ Includes basic tests to ensure core functionality (like year parsing and JSON ca
 - **Python 3.6+** is required. If you don’t have it installed, you can download the latest version below.
 - You **must purchase an API key** from LeakCheck to access breach data.
 
-### 📌 Installation Steps
 
-<p align="center"><strong>Installation Steps</strong></p>
+<p align="center"><strong>📌 Installation Steps</strong></p>
 
 <p align="center">
   <a href="https://www.python.org/downloads/" target="_blank">
