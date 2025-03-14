@@ -45,25 +45,21 @@
 - **Download Program**
 
 <!-- Centered badges for Python and MEGA downloads -->
+## 📦 Installation
 <p align="center">
   <a href="https://www.python.org/downloads/" target="_blank">
     <img src="https://img.shields.io/badge/Python-Download-blue?style=for-the-badge&logo=python" alt="Download Python" />
   </a>
+  <p align="center" style="font-family: sans-serif; font-size: 14px; color: #888888;">
+  Note: The MEGA file is hosted externally because it exceeds GitHub’s file size limits.
+</p>
   &nbsp;&nbsp;
   <a href="https://mega.nz/file/7ZMzAJaD#1spewx_uvnQgX1bsxnARMWAMKupXjwsKFuPtOijH7mo" target="_blank">
     <img src="https://img.shields.io/badge/Download%20File-Green?style=for-the-badge&logo=mega" alt="Download File" />
   </a>
 </p>
 
-<p align="center" style="font-family: sans-serif; font-size: 14px; color: #888888;">
-  Note: The MEGA file is hosted externally because it exceeds GitHub’s file size limits.
-</p>
 
-## 📦 Installation
-```python
-# 1. Ensure you have Python 3.6+ installed.
-#    If not, download Python 3.13.2 from:
-#    https://www.python.org/ftp/python/3.13.2/python-3.13.2-amd64.exe
-#
-# 2. Run the application:
-#    python main.py
+
+
+
