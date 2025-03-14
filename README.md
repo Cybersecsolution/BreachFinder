@@ -44,21 +44,11 @@
 
 - **Download Program**
 
-<!-- Download Program -->
-<h3 align="center">Download Program</h3>
-
+<!-- Centered "button" badge linking to MEGA -->
 <p align="center">
-  <a href="https://mega.nz/file/7ZMzAJaD#1spewx_uvnQgX1bsxnARMWAMKupXjwsKFuPtOijH7mo"
-     target="_blank"
-     style="
-       background-color: #28a745;
-       color: #ffffff;
-       padding: 12px 24px;
-       border-radius: 5px;
-       font-weight: bold;
-       text-decoration: none;
-       display: inline-block;">
-    Download File
+  <a href="https://mega.nz/file/7ZMzAJaD#1spewx_uvnQgX1bsxnARMWAMKupXjwsKFuPtOijH7mo" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20File-Green?style=for-the-badge"
+         alt="Download File" />
   </a>
 </p>
 
